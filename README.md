@@ -1,4 +1,4 @@
 # js-code-snippets
 javascript util code snippets
 
-find-searchIndexOfObjectInArray.js (for searching index in array object_ with three test cases.)
+<code>find-searchIndexOfObjectInArray.js</code> (for searching index in array object_ with three test cases.)
