@@ -5,11 +5,11 @@ const objects = [
     { name: "obj2", id: "6055cb3d062eb5153c089123" }
 ]
 
-//check if object find and return it else retun false
+//check if object find and return it else retun undefind
 let isExists = (arr, obj) => arr.find((ele) => ele.id === obj.id && ele);
 
 //test 0
-let obj = { name: 'test0', id: "6055cb33062eb5153c089122" }
+let obj = { name: 'test0', id: "6055cb33062eb5153c089vsr" }
 console.log(isExists(objects, obj))
 
 //test 1
